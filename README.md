@@ -1,7 +1,7 @@
 # Tutorial of machine learning for emulating a Lorenz model
 
 ### Content of this repository
-- [crash_course.pdf](crash_course.pdf): slide of the lecture givent at [the crash course on DA](https://events.nersc.no/event/3rd-summer-school-crash-course-data-assimilation-theoretical-foundations-and-advanced) in June 2021 
+- [crash_course.pdf](crash_course.pdf): slide of the lecture given at [the crash course on DA](https://events.nersc.no/event/3rd-summer-school-crash-course-data-assimilation-theoretical-foundations-and-advanced) in June 2021 
 - [L63_demonstrator.ipynb](L63_demonstrator.ipynb): notebook implemented a small tutorial on model emulation using machine learning
 
 ### Instructions for working on the cloud (recommended)
