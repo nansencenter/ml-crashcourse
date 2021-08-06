@@ -2,8 +2,8 @@
 
 Run the tutorial in a cloud computing provider (require Google login):
 
-- Lorenz 63 tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/nansencenter/ml-crashcourse/blob/main/L63_demonstrator.ipynb)
-- Lorenz 96 tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/nansencenter/ml-crashcourse/blob/main/L96_demonstrator.ipynb)
+- Lorenz 63 tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/nansencenter/ml-crashcourse/blob/dev/L63_demonstrator.ipynb)
+- Lorenz 96 tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/nansencenter/ml-crashcourse/blob/dev/L96_demonstrator.ipynb)
  
 
 ### Instructions for working locally
