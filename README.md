@@ -1,9 +1,10 @@
 # Tutorial of machine learning for emulating a Lorenz model
 
-Run the tutorial in a cloud computing provider:
+Run the tutorial in a cloud computing provider (require Google login):
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/nansencenter/ml-crashcourse/blob/main/L63_demonstrator.ipynb)
-  (requires Google login)
+- Lorenz 63 tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/nansencenter/ml-crashcourse/blob/main/L63_demonstrator.ipynb)
+- Lorenz 96 tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/nansencenter/ml-crashcourse/blob/main/L96_demonstrator.ipynb)
+ 
 
 ### Instructions for working locally
 
