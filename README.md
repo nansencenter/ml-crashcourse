@@ -1,15 +1,11 @@
 # Tutorial of machine learning for emulating a Lorenz model
 
-### Content of this repository
-- [crash_course.pdf](crash_course.pdf): slide of the lecture given at [the crash course on DA](https://events.nersc.no/event/3rd-summer-school-crash-course-data-assimilation-theoretical-foundations-and-advanced) in June 2021 
-- [L63_demonstrator.ipynb](L63_demonstrator.ipynb): notebook implemented a small tutorial on model emulation using machine learning
 
-### Instructions for working on the cloud (recommended)
+Run the tutorial in a cloud computing provider (require Google login):
 
-Run the tutorial in a cloud computing provider:
-
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/nansencenter/ml-crashcourse/blob/main/L63_demonstrator.ipynb)
-  (requires Google login)
+- Lorenz 63 tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/nansencenter/ml-crashcourse/blob/dev/L63_demonstrator.ipynb)
+- Lorenz 96 tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/nansencenter/ml-crashcourse/blob/dev/L96_demonstrator.ipynb)
+ 
 
 ### Instructions for working locally
 
