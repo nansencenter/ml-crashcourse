@@ -28,6 +28,6 @@ This is a bit snappier than running them online.
 3. **Launch the Jupyter notebooks**:  
    `$ jupyter-notebook`  
    This will open up a page in your web browser that is a file navigator.  
-   Enter the folder `ml-craashcourse`, and click on the tutorial `L63_demonstrator.ipynb`.
+   Enter the folder `ml-crashcourse`, and click on the tutorial `L63_demonstrator.ipynb` or `L96_demonstrator.ipynb`
 
 <!-- markdownlint-disable-file heading-increment -->
