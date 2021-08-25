@@ -25,7 +25,7 @@ This is a bit snappier than running them online.
 2. **Install**:  
    Run these commands in the terminal (excluding the `$` sign):  
    `$ git clone https://github.com/nansencenter/ml-crashcourse.git`  
-   `$ pip install -r ml-crahscourse/requirements.txt`  
+   `$ pip install -r ml-crashcourse/requirements.txt`  
 
 3. **Launch the Jupyter notebooks**:  
    `$ jupyter-notebook`  
