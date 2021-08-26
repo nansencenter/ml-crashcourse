@@ -1,6 +1,8 @@
 # Tutorial of machine learning for emulating a Lorenz model
 
+pdf of the slides: [slides](slides_ML.pdf)
 
+### Instruction for working on a cloud (recommended)
 Run the tutorial in a cloud computing provider (require Google login):
 
 - Lorenz 63 tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/nansencenter/ml-crashcourse/blob/main/L63_demonstrator.ipynb)
@@ -23,7 +25,7 @@ This is a bit snappier than running them online.
 2. **Install**:  
    Run these commands in the terminal (excluding the `$` sign):  
    `$ git clone https://github.com/nansencenter/ml-crashcourse.git`  
-   `$ pip install -r ml-crahscourse/requirements.txt`  
+   `$ pip install -r ml-crashcourse/requirements.txt`  
 
 3. **Launch the Jupyter notebooks**:  
    `$ jupyter-notebook`  
